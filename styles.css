@@ -63,7 +63,7 @@ body{
 }
 
 .login-container {
-  background-image: url("images/header.jpg");
+  background-image: url("header.jpg");
   min-height: 700px;
   display: flex;
   justify-content: center;
